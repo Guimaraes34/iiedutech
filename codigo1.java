@@ -1,4 +1,4 @@
-public class Codigo1 {
+public class codigo1 {
 	public static void main(String[] args) {
 		Contato c = new Contato("Asdrubal", "9.9999-9999");
 		System.out.println(c);
